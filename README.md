@@ -8,6 +8,7 @@ Date: First Semester 2020/2021 (20201)
 
 ***
 # Table of Contents
+* [Project document](blob/main/3D_Modeling_YoumnaJaza_201812214.pdf)
 * [Project blender file](blob/main/3D_YoumnaJaza.blend)
 
 ***
