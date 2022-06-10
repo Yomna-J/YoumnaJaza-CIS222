@@ -1,6 +1,6 @@
 # CIS222-Project
-This is a repository for Interactive Media (CIS222) course which is about meida & 3D modeling. It includes the 3D modleing project that's designed using Blender.
-  
+This is a repository for Interactive Media (CIS222) course which is about media & 3D modeling. It includes the 3D modeling project that's designed using Blender.
+
 By: Youmna Jaza  
 Course: CIS222 Interactive Media  
 Lecturer: Ms. Layla Albabtain  
